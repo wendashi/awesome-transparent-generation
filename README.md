@@ -1,6 +1,6 @@
-[![Cool](https://awesome.re/badge.svg)](https://awesome.re) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wendashi/awesome-transparent-generation) 
- 
+[![awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=wendashi/awesome-transparent-generation)
+
 This repo collects the native RGBA generation methods
 
 ### Papers

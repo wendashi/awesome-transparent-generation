@@ -21,7 +21,7 @@ This repo collects the native RGBA generation methods
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/microsoft/art-msra.svg?style=social" alt="Stars">
    </a>
-5. [Generative Image Layer Decomposition with Visual Effects (CVPR25)](https://rayjryang.github.io/LayerDecomp/)
+5. [Generative Image Layer Decomposition with Visual Effects](https://rayjryang.github.io/LayerDecomp/) (CVPR25)
 6. [Zero-Shot Subject-Centric Generation for Creative Application Using Entropy Fusion](https://arxiv.org/abs/2503.10697) (arXiv25)
 
 

@@ -1,6 +1,6 @@
-<!-- 引入 Font Awesome 图标库 -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
-
+[![Cool](https://awesome.re/badge.svg)](https://awesome.re) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wendashi/Cool-GenAI-Fashion-Papers) 
+ 
 This repo collects the native RGBA generation methods
 
 ### Papers

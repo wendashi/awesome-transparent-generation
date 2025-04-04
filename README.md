@@ -32,7 +32,12 @@ This repo collects the native RGBA generation methods
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/RedAIGC/Flux-version-LayerDiffuse.svg?style=social" alt="Stars">
    </a>
-2. DeepGrabCut-PyTorch, 
+2. LayerDiffuse_DiffusersCLI (SDXL version),
+   <a href="https://github.com/lllyasviel/LayerDiffuse_DiffusersCLI" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://github.com/lllyasviel/LayerDiffuse_DiffusersCLI.svg?style=social" alt="Stars">
+   </a>
+3. DeepGrabCut-PyTorch, 
    <a href="https://github.com/jfzhang95/DeepGrabCut-PyTorch" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/jfzhang95/DeepGrabCut-PyTorch.svg?style=social" alt="Stars">

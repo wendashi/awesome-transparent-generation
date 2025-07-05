@@ -23,6 +23,13 @@ This repo collects the native RGBA generation methods
    </a>
 5. [Generative Image Layer Decomposition with Visual Effects](https://rayjryang.github.io/LayerDecomp/) (CVPR25)
 6. [Zero-Shot Subject-Centric Generation for Creative Application Using Entropy Fusion](https://arxiv.org/abs/2503.10697) (arXiv25)
+7. [TransAnimate: Taming Layer Diffusion to Generate RGBA Video](https://arxiv.org/abs/2503.17934) (arXiv25)
+8. [PSDiffusion: Harmonized Multi-Layer Image Generation via Layout and Appearance Alignment](https://arxiv.org/abs/2505.11468) (arXiv25),
+   <a href="https://github.com/microsoft/art-msra" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/dingbang777/PSDiffusion.svg?style=social" alt="Stars">
+   </a>
+9. [DreamLayer: Simultaneous Multi-Layer Generation via Diffusion Model](https://arxiv.org/abs/2503.12838) (arXiv25)
 
 
 ### Repos

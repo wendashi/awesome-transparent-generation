@@ -65,3 +65,26 @@ This repo collects the native RGBA generation methods:
 ### Products
 
 1. [OpenAI 4o Image Generation](https://openai.com/index/introducing-4o-image-generation/)
+
+
+### Matting/Segmentation papers
+1. [PP-Matting](https://github.com/PaddlePaddle/PaddleSeg)
+   <a href="https://github.com/PaddlePaddle/PaddleSeg" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/PaddlePaddle/PaddleSeg.svg?style=social" alt="Stars">
+   </a>
+2. [BEN2](https://github.com/PramaLLC/BEN2?tab=readme-ov-file)[image & video🔥]
+   <a href="https://github.com/PramaLLC/BEN2" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/PramaLLC/BEN2.svg?style=social" alt="Stars">
+   </a>
+3. [BiRefNet](https://github.com/ZhengPeng7/BiRefNet)
+  <a href="https://github.com/ZhengPeng7/BiRefNet" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/ZhengPeng7/BiRefNet.svg?style=social" alt="Stars">
+   </a>
+4. [RMBG-2.0](https://github.com/pinokiofactory/RMBG-2-Studio?tab=readme-ov-file#architecture)
+  <a href="https://github.com/pinokiofactory/RMBG-2-Studio" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/pinokiofactory/RMBG-2-Studio.svg?style=social" alt="Stars">
+   </a>

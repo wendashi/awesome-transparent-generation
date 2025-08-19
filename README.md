@@ -79,12 +79,12 @@ This repo collects the native RGBA generation methods:
      <img src="https://img.shields.io/github/stars/PramaLLC/BEN2.svg?style=social" alt="Stars">
    </a>
 3. [BiRefNet](https://github.com/ZhengPeng7/BiRefNet)
-  <a href="https://github.com/ZhengPeng7/BiRefNet" title="GitHub Repo">
+   <a href="https://github.com/ZhengPeng7/BiRefNet" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/ZhengPeng7/BiRefNet.svg?style=social" alt="Stars">
    </a>
 4. [RMBG-2.0](https://github.com/pinokiofactory/RMBG-2-Studio?tab=readme-ov-file#architecture)
-  <a href="https://github.com/pinokiofactory/RMBG-2-Studio" title="GitHub Repo">
+   <a href="https://github.com/pinokiofactory/RMBG-2-Studio" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/pinokiofactory/RMBG-2-Studio.svg?style=social" alt="Stars">
    </a>

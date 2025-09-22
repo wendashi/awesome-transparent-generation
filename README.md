@@ -35,7 +35,7 @@ This repo collects the native RGBA generation methods:
      <img src="https://img.shields.io/github/stars/dingbang777/PSDiffusion.svg?style=social" alt="Stars">
    </a>
 10. [DreamLayer: Simultaneous Multi-Layer Generation via Diffusion Model](https://arxiv.org/abs/2503.12838) (arXiv25)
-11. [AlphaVAE: Unified End-to-End RGBA Image Generation with Alpha-Aware Representation Learning](https://github.com/o0o0o00o0/AlphaVAE) (arXiv25)
+11. [AlphaVAE: Unified End-to-End RGBA Image Reconstruction and Generation with Alpha-Aware Representation Learning](https://github.com/o0o0o00o0/AlphaVAE) (arXiv25)
       <a href="https://github.com/o0o0o00o0/AlphaVAE/" title="GitHub Repo">
         <i class="fab fa-github"></i> 
         <img src="https://img.shields.io/github/stars/o0o0o00o0/AlphaVAE.svg?style=social" alt="Stars">

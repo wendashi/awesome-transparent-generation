@@ -77,7 +77,7 @@ This repo collects the native RGBA generation methods:
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/PaddlePaddle/PaddleSeg.svg?style=social" alt="Stars">
    </a>
-2. [BEN2](https://github.com/PramaLLC/BEN2?tab=readme-ov-file)[image & video🔥]
+2. [BEN2](https://github.com/PramaLLC/BEN2?tab=readme-ov-file)[image & video]
    <a href="https://github.com/PramaLLC/BEN2" title="GitHub Repo">
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/PramaLLC/BEN2.svg?style=social" alt="Stars">

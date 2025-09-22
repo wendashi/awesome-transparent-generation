@@ -40,7 +40,11 @@ This repo collects the native RGBA generation methods:
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/o0o0o00o0/AlphaVAE.svg?style=social" alt="Stars">
    </a>
-
+12. [PrismLayers: Open Data for High-Quality Multi-Layer Transparent Image Generative Models](https://github.com/redredsheep/PrismLayers?tab=readme-ov-file) (May, 2025)
+   <a href="https://github.com/redredsheep/PrismLayers/" title="GitHub Repo">
+     <i class="fab fa-github"></i> 
+     <img src="https://img.shields.io/github/stars/redredsheep/PrismLayers.svg?style=social" alt="Stars">
+   </a>
 
 
 ### Repos

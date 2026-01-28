@@ -45,7 +45,11 @@ This repo collects the native RGBA generation methods:
         <i class="fab fa-github"></i> 
         <img src="https://img.shields.io/github/stars/redredsheep/PrismLayers.svg?style=social" alt="Stars">
       </a>
-
+13. [Qwen-Image-Layered](https://github.com/QwenLM/Qwen-Image-Layered) (Dec, 2025)
+      <a href="https://github.com/QwenLM/Qwen-Image-Layered/" title="GitHub Repo">
+        <i class="fab fa-github"></i> 
+        <img src="https://img.shields.io/github/stars/QwenLM/Qwen-Image-Layered.svg?style=social" alt="Stars">
+      </a>
 
 ### Repos
 

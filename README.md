@@ -96,3 +96,5 @@ This repo collects the native RGBA generation methods:
      <i class="fab fa-github"></i> 
      <img src="https://img.shields.io/github/stars/pinokiofactory/RMBG-2-Studio.svg?style=social" alt="Stars">
    </a>
+
+

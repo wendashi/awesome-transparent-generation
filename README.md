@@ -50,7 +50,12 @@ This repo collects the native RGBA generation methods:
         <i class="fab fa-github"></i> 
         <img src="https://img.shields.io/github/stars/QwenLM/Qwen-Image-Layered.svg?style=social" alt="Stars">
       </a>
-
+14. [Qwen-Image-2.1 ](https://github.com/QwenLM/Qwen-Image-2.1)
+      <a href="https://github.com/QwenLM/Qwen-Image-2.1/" title="GitHub Repo">
+        <i class="fab fa-github"></i> 
+        <img src="https://img.shields.io/github/stars/QwenLM/Qwen-Image-2.1.svg?style=social" alt="Stars">
+      </a>
+      
 ### Repos
 
 1. LayerDiffuse(Flux version), 
